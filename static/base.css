@@ -1,0 +1,14 @@
+.cafe_header_logo{
+    margin: 2rem 0;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.cafe_footer_logo{
+    margin: 2rem 0;
+    font-family: 'Source Serif Pro', serif;
+}
+.mw-500{
+    max-width: 500px;
+    padding: 1rem 1.5rem;
+
+}
